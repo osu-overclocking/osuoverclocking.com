@@ -1,5 +1,12 @@
 
-.bg-osu{
-  background-color: #dc4405;
+.bg-main {
 
+  color: #dcdcdc;
+  background-color: #434;
+
+}
+
+.bg-osu {
+
+  background-color: #dc4405;
 }
