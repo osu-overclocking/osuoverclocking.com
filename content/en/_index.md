@@ -22,7 +22,7 @@ We meet in Dearborn 110, check our discord and calendar for updated meeting time
 {class=logo}
 
 ![Intel Logo](https://upload.wikimedia.org/wikipedia/commons/8/85/Intel_logo_2023.svg)
-{class=logo ref="/post/"}
+{class=logo}
 
 ![Micron Logo](https://upload.wikimedia.org/wikipedia/commons/9/9b/Micron_Technology_logo.svg)
 {class=logo}
