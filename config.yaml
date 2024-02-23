@@ -32,6 +32,15 @@ params:
   recent_posts_number: 3
   custom_css: ["style.css"]
   body_classes: "avenir bg-near-white"
+  ananke_socials:
+  - name: github
+    url: https://github.com/osu-overclocking
+  - name: HWBot
+    url: https://hwbot.org/user/benny_benches/
+  - name: discord
+    url: https://discord.gg/m46VKy2ZDE
+  - name: matrix
+    url: https://matrix.to/#/!oqVetIcDFOwVNLcRDZ:matrix.org
 
 markup:
   goldmark:
@@ -41,13 +50,4 @@ markup:
         block: true
         title: true
 
-  ananke_socials:
-  - name: github
-    url: https://github.com/osu-overclocking
-  - name: HWBot
-    url: https://hwbot.org/user/benny_benches/
-    icon: https://hwbot.org/images/robot-small.png
-  - name: discord
-    url: https://discord.gg/m46VKy2ZDE
-  - name: matrix
-    url: https://matrix.to/#/!oqVetIcDFOwVNLcRDZ:matrix.org
+  
