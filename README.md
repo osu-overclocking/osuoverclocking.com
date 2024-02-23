@@ -57,6 +57,8 @@ Pull requests are welcome; although this site mostly for club leadership to writ
 posts and give information vital to the club. Check out our
 [wiki](https://wiki.osuoverclocking.com)! as it is more accessible to outside contributions.
 
+For more information about how this theme works, see the [ananke](https://github.com/theNewDynamic/gohugo-theme-ananke) repository.
+
 
 ### Posts
 
