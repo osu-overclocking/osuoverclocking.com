@@ -11,3 +11,14 @@
 .img {
   border-radius: 15px;
 }
+
+.logo {
+  max-width: 16rem;
+  padding: 1rem;
+  max-height: 8rem;
+}
+
+.med-width {
+  max-width: 75rem;
+
+}
