@@ -10,7 +10,7 @@ cascade:
 
 ## Welcome one, welcome all! 
 
-![Intel Trip 2023](https://cdn.overclocking.com/partners/intel_trip.webp)
+![Intel Trip 2023](https://cdn.osuoverclocking.com/partners/intel_trip.webp)
 
 We are a collective of ambitious Engineering students competing in liquid nitrogen overclocking competitions and developing custom solutions for thermal management, power draw, hardware, software, and ease of use.
 
@@ -18,7 +18,7 @@ Currently we are the only college in the U.S. to have a dedicated overclocking t
 
 With a team of over 25 students we have a variety of disciplines of engineers ranging from mechanical to electronic engineering and everything in between. 
 
-![Pie Chart](https://cdn.overclocking.com/charts_data/distribution.webp)
+![Pie Chart](https://cdn.osuoverclocking.com/charts_data/distribution.webp)
 
 We are currently developing tools such as a controllable heated LN2 Pot, custom LN2 pots with integrated Leidenfrost reducing plates, and a custom lightweight OS. Along with that we are building show stopper pieces such as a passively cooled immersion pc cased and custom 3d printed cases. 
 
