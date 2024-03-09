@@ -29,6 +29,9 @@ We currently have 25+ members actively engaging in overclocking and these projec
 ![IEEE Logo](https://upload.wikimedia.org/wikipedia/commons/2/21/IEEE_logo.svg)
 {class=logo}
 
+![ASUS Logo](https://upload.wikimedia.org/wikipedia/commons/2/2e/ASUS_Logo.svg)
+{class=logo}
+
 ![Intel Logo](https://upload.wikimedia.org/wikipedia/commons/8/85/Intel_logo_2023.svg)
 {class=logo}
 
