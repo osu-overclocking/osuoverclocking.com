@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on OSU Overclocking Club</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on OSU Overclocking Club</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 28 Feb 2024 22:52:35 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>G.Skill Comp Prep Work</title>
+      <link>http://localhost:1313/post/gskill_comp_2024/</link>
+      <pubDate>Wed, 28 Feb 2024 22:52:35 -0800</pubDate>
+      <guid>http://localhost:1313/post/gskill_comp_2024/</guid>
+      <description>The big event for there year is upon us! Thanks to our partners we are setup to a shot at qualifying for the top 9 in this years G.Skill World Cup. We are attempting to qualify 3 to 4 members on separate hardware. These members will be competing on Intel&amp;rsquo;s latest 13th and 14th gen processors paired with ASUS Z790 Apex Encore board&amp;rsquo;s we are setup to give those competing a serious run for their money.</description>
+    </item>
+    <item>
+      <title>Leidenfrost Pot Dev Update</title>
+      <link>http://localhost:1313/post/leidenfrost_1/</link>
+      <pubDate>Fri, 23 Feb 2024 22:59:16 -0800</pubDate>
+      <guid>http://localhost:1313/post/leidenfrost_1/</guid>
+      <description>Our Leidenfrost pot team is nearing completion on the first stage of development of our own custom pot design to accept Leidenfrost reducing plates to help improve the heat transfer from the copper heatsink/pot to the LN2 by facilitating a reduction in the Leidenfrost effect.&#xA;Images of the iterations of pot design and the current machined copper block: The Leidenfrost effect is the when a fluid encounters a hotplate, and the rapid boiling of the liquid creates a gas vapor layer between the liquid and the hot plate.</description>
+    </item>
+    <item>
+      <title>Immersion Case Dev Update</title>
+      <link>http://localhost:1313/post/immersion_case_1/</link>
+      <pubDate>Thu, 22 Feb 2024 20:47:47 -0800</pubDate>
+      <guid>http://localhost:1313/post/immersion_case_1/</guid>
+      <description>We are almost done with final dry fitting with all panels now machined out, all that&amp;rsquo;s left is adding the pass through for power, USB type-c connection, and display out.&#xA;We have already ordered a 12v power supply to run 3 cables into the case to do power delivery to the CPU and GPU and to connect with a pico power supply for the 24-pin motherboard power delivery.&#xA;we have achieved the goal originally set out to be under a 2 liter volume to save on the 2 phase dielectric fluid that we are using.</description>
+    </item>
+    <item>
+      <title>Overclock Till You Drop</title>
+      <link>http://localhost:1313/post/overclock-till-drop-fall-2023/</link>
+      <pubDate>Fri, 01 Dec 2023 01:59:04 +0000</pubDate>
+      <guid>http://localhost:1313/post/overclock-till-drop-fall-2023/</guid>
+      <description>The Overclock Till you Drop event will be happening on 8 Dec 2023 for Winter term.&#xA;This event, for those who have never been, is an all night event full of overclocking! We try to set records, have fun, and have a good night before finals hits.&#xA;Food, drink, candy, and computers are provided. We look forward to all those who can make it.</description>
+    </item>
+  </channel>
+</rss>
