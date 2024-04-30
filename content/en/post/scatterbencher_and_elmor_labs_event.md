@@ -2,8 +2,9 @@
 title: "Scatterbencher & Elmor Labs"
 date: 2024-04-20T12:00:00Z
 draft: false
+author: "Wesley Grandmont IV"
 tags: [events]
-featured_image: "https://cdn.osuoverclocking.com/static/legacy/Main_Group.webp"
+featured_image: "https://cdn.osuoverclocking.com/legacy/Main_Group.webp"
 description: "Visited by 9.1GHz Clockspeed World Record Holders Pieter & Jon"
 ---
 
@@ -16,8 +17,6 @@ One of our most prominent takeaways from their visit was their framework for set
 Pieter and Jon shared their proven strategy for setting world records in overclocking, which they broke down into clear, actionable steps.
 
 Following is a transcript of these steps from their presentation:
-
-<hr>
 
 # Step by Step Record Attempt
 
@@ -48,13 +47,11 @@ This will serve as a great reference point for both beginning and experienced ov
 
 Alongside outlining their framework, Pieter and Jon also brought their 9.1GHz-world-record CPU and motherboard. Following their presentation, they set up their gear and gave a live-demo of their overclocking process.
 
-*Image of Pieter and Jon in front of their setup:*
-![Pieter & Jon setup](https://cdn.osuoverclocking.com/elmor/)
+![Pieter & Jon setup](https://cdn.osuoverclocking.com/elmor/jon_pieter.webp)
 
 During this demo, we saw the use of several new components: a high-end LN2 pot (to enhance thermal distribution), a heated motherboard bed (to prevent cold bug), and a custom OC panel (an all-in-one tool for general overclocking use) - all courtesy Elmore Labs.
 
-*Image of the custom pot internal:*
-![Custom Pot Internals](https://cdn.osuoverclocking.com/elmor/)
+![Custom Pot Internals](https://cdn.osuoverclocking.com/elmor/ln2_pot.webp)
 
 While we didn't have any liquid helium on-hand, Pieter and Jon were still able to achieve very high clockspeeds during their demo.
 

@@ -1,7 +1,8 @@
 ---
 title: "Leidenfrost Pot Dev Update"
 date: 2024-02-23T22:59:16-08:00
-tags: []
+tags: [Projects]
+author: "Zander Ray"
 featured_image: "https://cdn.osuoverclocking.com/leidenfrost/20240228_200224.jpg"
 description: "Initial design for our new LN2 pot for Leidenfrost effect reduction is done."
 ---

@@ -1,7 +1,8 @@
 ---
 title: "G.Skill Comp Prep Work"
 date: 2024-02-28T22:52:35-08:00
-tags: []
+tags: [Competitions]
+author: "Zander Ray"
 featured_image: "https://cdn.osuoverclocking.com/post_headers/20240223_201905.jpg"
 description: "Tomorrow Friday March 1st, G.Skill OC World Cup Starts"
 ---

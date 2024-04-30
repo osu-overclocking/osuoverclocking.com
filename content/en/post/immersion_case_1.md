@@ -1,7 +1,8 @@
 ---
 title: "Immersion Case Dev Update"
 date: 2024-02-22T20:47:47-08:00
-tags: []
+tags: [Projects]
+author: "Zander Ray"
 featured_image: "https://cdn.osuoverclocking.com/immersion/immersion_cover.webp"
 description: "Development of the immersion cooling case continues with initial fitment prototype done."
 ---
