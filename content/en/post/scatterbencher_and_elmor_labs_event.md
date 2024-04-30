@@ -44,14 +44,14 @@ Following is a transcript of these steps from their presentation:
 - Increase BCLK if system stable
 - Try again
 
-This will serve as a great reference point for both beginning and experienced overclocking users in our club.
+This will serve as a great reference point for both beginning and experienced overclockers in our club.
 
 Alongside outlining their framework, Pieter and Jon also brought their 9.1GHz-world-record CPU and motherboard. Following their presentation, they set up their gear and gave a live-demo of their overclocking process.
 
 *Image of Pieter and Jon in front of their setup:*
 ![Pieter & Jon setup](https://cdn.osuoverclocking.com/elmor/)
 
-During this demo, we saw the usage of several new components: a high-end LN2 pot (to enhance thermal distribution), a heated motherboard bed (to prevent cold bug), and a custom OC panel (an all-in-one tool for general overclocking use) - all courtesy Elmore Labs.
+During this demo, we saw the use of several new components: a high-end LN2 pot (to enhance thermal distribution), a heated motherboard bed (to prevent cold bug), and a custom OC panel (an all-in-one tool for general overclocking use) - all courtesy Elmore Labs.
 
 *Image of the custom pot internal:*
 ![Custom Pot Internals](https://cdn.osuoverclocking.com/elmor/)
