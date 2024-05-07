@@ -8,8 +8,6 @@ cascade:
   featured_image: '/img/main_overclocking.webp'
 ---
 
-## Welcome one, welcome all! 
-
 ![Elmor and Skatterbencher Visit](https://cdn.osuoverclocking.com/legacy/Main_Group.webp)
 
 We are a collective of ambitious Engineering students competing in liquid nitrogen overclocking competitions and developing custom solutions for thermal management, power draw, hardware, software, and ease of use.
