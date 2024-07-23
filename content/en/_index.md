@@ -1,7 +1,7 @@
 ---
-title: "OSU Overclocking Club"
+title: "Overclocking Club"
 
-description: "The Oregon State University club focused on Overclocking and "
+description: "The Oregon State University club focused on Overclocking and Computers!"
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
