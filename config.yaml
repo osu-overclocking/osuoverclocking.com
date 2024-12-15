@@ -16,9 +16,6 @@ menus:
   - name: Posts
     pageref: /posts
     weight: 10
-  - name: Authors
-    pageref: /authors
-    weight: 20
 
 languages:
   en:
