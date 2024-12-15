@@ -30,7 +30,6 @@ sitemap:
 
 params:
   text_color: "bg-near-white med-width"
-  author: ""
   favicon: "/img/favicon.png"
   site_logo: ""
   description: "The last theme you'll ever need. Maybe."
