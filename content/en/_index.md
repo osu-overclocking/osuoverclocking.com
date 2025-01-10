@@ -24,6 +24,8 @@ We currently have 25+ members actively engaging in overclocking and these projec
 
 If you are at OSU, please stop by our room in Dearborn 110!
 
+Also, join our [Ideal Logic group](https://apps.ideal-logic.com/osusee?key=F3T9-25VWY_5878-CZ4R_150d7b42).
+
 ---
 
 ## Sponsors
