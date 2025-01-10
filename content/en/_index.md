@@ -22,9 +22,11 @@ We are currently developing tools such as a controllable heated LN2 Pot, custom 
 
 We currently have 25+ members actively engaging in overclocking and these projects to build their skills both for competition and for the job market. This is with an experimentalist mindset where we actively test and improve with data we have collected.
 
+If you are at OSU, please stop by our room in Dearborn 110!
+
 ---
 
-# Sponsors
+## Sponsors
 
 ---
 
