@@ -26,26 +26,8 @@ If you are at OSU, please stop by our room in Dearborn 110!
 
 Also, join our [Ideal Logic group](https://apps.ideal-logic.com/osusee?key=F3T9-25VWY_5878-CZ4R_150d7b42).
 
----
 
-## Sponsors
-
----
-
-![IEEE Logo](https://upload.wikimedia.org/wikipedia/commons/2/21/IEEE_logo.svg)
-{class=logo}
-
-![ASUS Logo](https://upload.wikimedia.org/wikipedia/commons/2/2e/ASUS_Logo.svg)
-{class=logo}
-
-![Intel Logo](https://upload.wikimedia.org/wikipedia/commons/8/85/Intel_logo_2023.svg)
-{class=logo}
-
-![Micron Logo](https://upload.wikimedia.org/wikipedia/commons/9/9b/Micron_Technology_logo.svg)
-{class=logo}
-
-![Oregon State University Logo](https://upload.wikimedia.org/wikipedia/en/1/17/Oregon_State_University_primary_logo.svg)
-{class=logo}
+{{< sponsors >}}
 
 ---
 

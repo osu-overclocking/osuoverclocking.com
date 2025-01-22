@@ -1,10 +1,7 @@
-
 .bg-main {
-
 }
 
 .bg-osu {
-
   background-color: #dc4405;
 }
 
@@ -20,5 +17,23 @@
 
 .med-width {
   max-width: 75rem;
+}
 
+.profile_img {
+  width: 10em;
+  float: right;
+  text-align: center;
+}
+
+.sponsor-flex {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.sponsor-item {
+  max-width: 16rem;
+  margin: 1rem;
+  max-height: 12rem;
 }

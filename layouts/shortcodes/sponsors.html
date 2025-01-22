@@ -1,0 +1,8 @@
+<hr />
+<h2>Sponsors</h2>
+<hr />
+<div class="sponsor-flex">
+  {{ range .Site.Data.sponsors }}
+  <img class="sponsor-item" src="{{ .url }}" alt="{{ .name }}" />
+  {{ end }}
+</div>
