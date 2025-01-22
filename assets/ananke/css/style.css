@@ -37,3 +37,7 @@
   margin: 1rem;
   max-height: 12rem;
 }
+
+.serif {
+  font-family: serif;
+}
