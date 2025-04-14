@@ -11,7 +11,7 @@
 
 .logo {
   max-width: 16rem;
-  padding: 2rem;
+  margin: 2rem;
   max-height: 8rem;
 }
 
@@ -23,6 +23,10 @@
   width: 10em;
   float: right;
   text-align: center;
+  img {
+    border: black solid 3px;
+    border-radius: 10px;
+  }
 }
 
 .sponsor-flex {
