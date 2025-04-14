@@ -1,8 +1,6 @@
 baseURL: "https://osuoverclocking.com"
 languageCode: "en-us"
 theme: ["gohugo-theme-ananke"]
-resourceDir: "resources"
-contentDir: "content/en"
 
 DefaultContentLanguage: "en"
 
@@ -10,6 +8,12 @@ pagination:
   pagerSize: 24
 googleAnalytics: ""
 enableRobotsTXT: true
+
+module:
+  mounts:
+    - source: content/en
+      target: content
+      excludeFiles: [ "authors" ]
 
 menus:
   main:
@@ -24,7 +28,6 @@ languages:
   en:
     title: Overclocking Club
     weight: 1
-    contentDir: content/en
 
 sitemap:
   changefreq: monthly
