@@ -13,7 +13,6 @@ module:
   mounts:
     - source: content/en
       target: content
-      excludeFiles: [ "authors" ]
 
 menus:
   main:

@@ -1,8 +1,12 @@
-+++
-title = 'Authors'
-date = 2024-09-16T04:24:34Z
-draft = false
-+++
+---
+title: 'Authors'
+date: 2024-09-16T04:24:34Z
+unlisted: true
+draft: false
+cascade:
+  _build:
+    list: never
+---
 
 ## Zander Ray
 
