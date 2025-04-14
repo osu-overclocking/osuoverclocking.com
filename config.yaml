@@ -16,6 +16,9 @@ menus:
   - name: Posts
     pageref: /posts
     weight: 10
+  - name: Authors
+    pageref: /authors
+    weight: 20
 
 languages:
   en:
@@ -31,7 +34,6 @@ sitemap:
 params:
   text_color: "bg-near-white med-width"
   favicon: "/img/favicon.png"
-  site_logo: ""
   description: "The last theme you'll ever need. Maybe."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class: "bg-osu"
