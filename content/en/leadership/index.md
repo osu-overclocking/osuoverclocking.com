@@ -14,13 +14,15 @@ cascade:
 
 {{< figure src="./Ashley_Bailey.webp" class="profile_img" title="Ashley Bailey" >}}
 
-I am currently pursuing a degree in Mechanical Engineering at Oregon State University, where I channel my passion for engineering, which began in my hometown of Dufur, Oregon. Since joining the Overclocking Club in Fall 2023, I have dedicated myself to GPU overclocking, achieving multiple world records in the field. My commitment led to my election as the club's co-event coordinator. Beyond academics, I work in a research lab, contributing to significant projects for the National Science Foundation and smaller-scale initiatives for the Ideal National Laboratory.
+I am currently pursuing a degree in Mechanical Engineering at Oregon State University, where I channel my passion for engineering, which began in my hometown of Dufur, Oregon. Since joining the Overclocking Club in Fall 2023, I have dedicated myself to GPU overclocking, achieving multiple world records in the field. My commitment led to my election as the club's co-event coordinator. Beyond academics, I work in a research lab, contributing to significant projects for the National Science Foundation and smaller-scale initiatives for the Idaho National Laboratory.
 
-<!-- ## Donovan Burk -->
-<!---->
-<!-- **Vice President** -->
-<!---->
-<!-- {{< figure src="./Donovan_Burk.webp" class="profile_img" title="Donovan Burk" >}} -->
+## Donovan Burk
+
+**Vice President**
+
+{{< figure src="./Donovan_Burk.webp" class="profile_img" title="Donovan Burk" >}}
+
+I am currently studying Electrical Engineering, with a minor in Physics and Computer Science. I have been a part of the club for three years now going on four and enjoy the atmosphere that it brings including all our members. Outside of the overclocking club I enjoy swimming, hiking and snowboarding and am currently in the MECOP program. This summer I've been interning at Thermo Fisher Scientific. As part of the club, I hold a number of overclocking records. Last year, I was co-event coordinator for this club, and have been elected the role of vice president for this coming year.
 
 ## Cooper Tillson
 
