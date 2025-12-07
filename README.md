@@ -68,7 +68,7 @@ You can use that to make fancy headings and other markings on the page.
 To create a post, run
 
 ```
-hugo new content post/{Post_Name}.md
+hugo new content posts/{Post_Name}.md
 ```
 
 which will create the template file.
