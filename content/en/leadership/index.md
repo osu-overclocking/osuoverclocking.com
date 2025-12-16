@@ -32,11 +32,13 @@ I am currently studying Electrical Engineering, with a minor in Physics and Comp
 
 Hello I'm Cooper, I'm a sophomore in Mechanical Engineering. I joined the overclocking club a year and a half ago and am currently the club treasurer. I have really enjoyed working on graphics cards overclocking and my custom designed pc case. Outside of the overclocking club I enjoy playing soccer and competing in alpine ski racing. I work in the Heat Transfer lab, where I'm researching using computers to heat pools. This summer I will also be working as an intern at Intel in Hillsboro.
 
-<!-- ## Alex Carroll -->
-<!---->
-<!-- **Secretary** -->
-<!---->
-<!-- {{< figure src="./Alex_Carroll.webp" class="profile_img" title="Alex Carroll" >}} -->
+ ## Alex Carroll
+
+**Secretary**
+
+{{< figure src="./Alex_Carroll.webp" class="profile_img" title="Alex Carroll" >}}
+
+I am a senior Electrical and Computer Engineering student at Oregon State University, I also am pursing my M.S. in Electical and Computer Engineering through an Advanced Masters Program. I joined the Overclocking club in Fall of 2022, and with the support of the club I have been able to devlop a power card for GPU's as my senior project. Through the MECOP program I have interned at both Boeing and Jacobs. 
 
 ## Zander Ray
 
