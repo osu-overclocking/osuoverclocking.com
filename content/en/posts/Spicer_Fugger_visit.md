@@ -5,12 +5,12 @@ draft: false
 tags: [Visit]
 author: "Zander Ray"
 featured_image: "https://cdn.osuoverclocking.com/spicer_fugger/Group_shot.webp"
-description: "Going over collaboration with established members of the XOC Community"
+description: "Collaborative Evaluation of Modern CPU Architectures with Established XOC Community Members: Report"
 ---
 
 # Goals
 
-With this collaboration we aimed for acquiring knowledge and best practices to add to our own. We Sought this by having Charles Wirth (Fugger) and Max Spicer (Spicer) fly up to do benching on some platforms we share.These platforms would be: Arrow Lake (Intel), AM5 (AMD), and Sapphire Rapids (Intel).
+With this collaboration, the primary objective was to acquire platform-specific knowledge and best practices that could be integrated into our own extreme overclocking (XOC) workflows. This was accomplished through hands-on benching sessions led by Charles Wirth (Fugger) and Max Spicer (Spicer), who traveled to work directly with our members on several shared platforms. The architectures evaluated during this session were Arrow Lake (Intel), AM5 (AMD), and Sapphire Rapids / W790 (Intel).
 
 ---
 
@@ -18,24 +18,68 @@ With this collaboration we aimed for acquiring knowledge and best practices to a
 
 ![Spicer Teaching](https://cdn.osuoverclocking.com/spicer_fugger/spicer_w_member.webp)
 
-The first of these Arrow Lake we focused on memory frequency validation (mem Valid) this is where we compete to see who can achieve the highest valid frequency for our memory, as of writing the record is 6765.2 mhz. This can lead to some confusion as a lot of kits of ram are sold as "6400 xmp" and that is because that number is the megatransfers per second (mt/s) which is double the number of the actual frequency due to ram modules be DDR or Double Data Rate. So in reality that 6400mt/s kit is 3200 mhz. Working with Spicer we were able to achieve 5512.8 mhz on a ASUS ROG Z890 Apex motherboard and a Intel Core Ultra 7 265k processor using Liquid Nitrogen. The tools and techniques of ths were shared to an audience of members who all took turns pushing the mem kit provided by Patriot to its limit. We used quite a few peripherals supplied by Elmor Labs, like the Hot300 heater and heater plate, Volcano LN2 pot, and the OC Panel, all of which helped to make the process easier and made it a bit more accessible for some of our students to know what is going on, for example those with poor eyesight appreciated the OC panel for the large display out of the post codes in a position that is easier to read.
+The Arrow Lake platform was primarily evaluated through memory frequency validation (Mem Valid), a benchmark category that emphasizes raw memory frequency stability and signal integrity rather than full system throughput. As of writing, the global record for this category stands at 6765.2 MHz (memory clock).
+
+It is worth clarifying that consumer memory kits are typically marketed using megatransfers per second (MT/s), which is twice the actual operating frequency due to DDR (Double Data Rate) signaling. For example, a “6400 MT/s” kit operates at a true clock frequency of 3200 MHz.
+
+Arrow Lake demonstrated several architectural traits that make it well-suited for memory frequency scaling:
+
+* A strong integrated memory controller (IMC) with favorable cold behavior
+
+* Fine-grained memory training controls
+
+* Robust signal integrity on high-end Z890 motherboards
+
+Working alongside Spicer, we achieved a validated frequency of 5512.8 MHz on an ASUS ROG Z890 Apex motherboard paired with an Intel Core Ultra 7 265K, using liquid nitrogen (LN2) cooling. This session emphasized IMC tuning, training retries, and temperature-dependent stability windows.
+
+To support this process, a variety of tools from Elmor Labs were used, including the Hot300 heater, heater plate, Volcano LN2 pot, and OC Panel. These tools significantly improved repeatability and accessibility during the session. For example, the OC Panel’s large POST code display proved especially valuable during cold training cycles, particularly for members with limited visibility near the bench table.
 
 # AM5 Overclocking
 
 ![7950x setup](https://cdn.osuoverclocking.com/spicer_fugger/Am5.webp)
 
-This is fairly new to us, we had interest in learning the AM5 platform due to the global point advantage that ryzen has with some core counts. To quickly summarize, it's an ok OC platform. That is alot of the members found it kind of boring, as Arrow Lake proposes a lot of challenges and thus solutions are needing to be found and executed, however newer members found these chips easier to pick and as they are quite simple. There are some interesting things that we found with AM5 is that there are some voltage rails like Arrow lake's SOC voltage that lower the cold bug temp, in our case our Ryzen 9 7950x's cold bug was removed entirely allowing us to full pot. However this seemed to harm performance by reducing score by ~2%. There is also similar in depth tuning that we have as of writing learning that was brought up by Spicer, that being the dual CCD and optimizing the infinity fabric clocks. The latter is something we have known about but given new information on feed voltages we are now better equipped to tune the infinity fabric clock further.
+The AMD AM5 platform was explored due to its strong competitiveness in global ranking systems, particularly in benchmarks that favor higher core counts and efficient multi-thread scaling. From an architectural standpoint, AM5 presents a comparatively constrained but predictable overclocking environment.
+
+* Key architectural observations included:
+
+* Limited core frequency headroom relative to Intel platforms
+
+* Heavy reliance on Precision Boost and voltage scaling behavior
+
+* Strong memory and fabric coupling effects
+
+One notable behavior observed on the Ryzen 9 7950X was the interaction between SoC-related voltage rails and cold bug characteristics. By adjusting these rails, we were able to entirely remove the cold bug, allowing the processor to operate at full LN2 pot temperatures. However, this came at the cost of approximately 2% performance degradation, indicating internal trade-offs between cold tolerance and execution efficiency.
+
+AM5’s dual-CCD topology introduced additional tuning considerations. With guidance from Spicer, we examined CCD balancing and Infinity Fabric (FCLK) optimization in greater depth. While FCLK tuning has long been known to affect performance, new insight into feed voltages and stability thresholds has improved our ability to push fabric clocks more aggressively without destabilizing the system.
+
+Overall, AM5 proved to be a technically clean platform with fewer variables than Arrow Lake, making it approachable for newer members while still offering depth through memory and fabric optimization.
 
 # Modern HEDT
 
 ![Setup of w9](https://cdn.osuoverclocking.com/spicer_fugger/pre_run.webp)
 
-One of my favorite segments of the desktop space is HEDT and the last true HEDT chip we got from intel was the x299 platform and the 10980XE (My favorite chip of them all), however there is a crazy chip they released not too long ago the W9 3495x overclockable 56 core 112 thread Xeon. I have run it only a handful of times and each time the power draw was well into 2kW. This also makes it more challenging as cold bug sits around -50C to -60C meaning you don't get much of a temperature delta between the chip package and the cold bug limit. This means cooling efficiency is key, making this platform more dependant then most on heat transfer and thermodynamics, and as a Mechanical Engineering major that makes me excited for a challenge like this. Due to the massive power dissipation we used a Elmor Labs Volcano X LN2 pot, and made sure to have a dedicated person ready to refill flasks of LN2 to feed it. We had plenty of power on tap with two 2200W PSU's. With that our ASUS Pro WS W790E-SAGE SE helped us set the highest score in Geekbench AI as of writing. This was very muc possible due to learning from Fugger who has worked with this platform since launch and documentation support from ASUS.
+Modern HEDT remains one of the most technically demanding segments of the desktop CPU landscape. While Intel’s X299 platform and the 10980XE represented the last traditional HEDT generation, the Xeon W9-3495X introduces a dramatically different class of challenges.
 
+This processor features 56 cores and 112 threads, is fully multiplier unlocked, and exhibits extreme power density under load. In our testing, sustained power draw exceeded 2000 W, fundamentally shifting the limiting factor from frequency scaling to thermal transport and system-level power delivery.
+
+* Architectural characteristics of note included:
+
+* A cold bug window around –50 °C to –60 °C, leaving minimal temperature headroom
+
+* Extremely high heat flux due to dense core layout
+
+* Strong scaling in AI and throughput-focused workloads
+
+Because of these constraints, cooling efficiency became paramount. We employed an Elmor Labs Volcano X LN2 pot to maximize heat transfer efficiency, along with a dedicated LN2 refill workflow to maintain consistent thermal conditions. Power delivery was handled by two 2200 W PSUs, ensuring sufficient overhead for transient loads.
+
+Using an ASUS Pro WS W790E-SAGE SE motherboard, and with platform-specific guidance from Fugger—who has extensive experience with W790 since launch—we achieved the highest Geekbench AI score on this platform as of writing. ASUS-provided documentation and firmware support played a critical role in enabling this result.
 ![After run](https://cdn.osuoverclocking.com/spicer_fugger/post_run.webp)
 ![W9](https://cdn.osuoverclocking.com/spicer_fugger/w9_3495x.webp)
 
 # Conclusion
 
-This trip from Spicer and Fugger has really helped us with cleaning up some faults in our processes, and similarly to the Elmor and Scatterbencher visit, general members get to work with some of the best in the world at XOC and meet a long time community member going back to when this all began. So we all here at Oregon State Overclocking thank you for your time and willingness to educate and teach.
+This collaborative session with Spicer and Fugger provided substantial value by refining our understanding of modern CPU architectures under extreme operating conditions. Each platform—Arrow Lake, AM5, and W790—presented distinct architectural strengths and constraints, reinforcing the importance of platform-specific methodologies rather than one-size-fits-all approaches.
 
+Beyond benchmark results, the most significant outcome was the improvement of our internal processes, documentation, and teaching workflows. Similar to prior visits from Elmor and ScatterBencher, this event allowed general members to work directly with world-class XOC practitioners and engage with long-standing contributors to the overclocking community.
+
+On behalf of Oregon State Overclocking, we sincerely thank Spicer and Fugger for their time, expertise, and willingness to educate the next generation of extreme overclockers.
