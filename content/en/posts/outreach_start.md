@@ -2,7 +2,7 @@
 title: "Starting Up Outreach"
 date: 2025-12-06T16:37:32-08:00
 tags: [Outreach]
-author: "Ashley Bailey, Donovan Burk, Zander Ray"
+author: "Ashley Bailey, Donovan Burk"
 featured_image: "https://cdn.osuoverclocking.com/outreach/girl-scouts.webp"
 description: "One of our newest club initiatives is bringing STEM to children in fun ways"
 ---
